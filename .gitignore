@@ -1,0 +1,9 @@
+*.blend
+*.blend1
+*.exr
+out/
+refs/
+__pycache__/
+*.pyc
+*.log
+.DS_Store

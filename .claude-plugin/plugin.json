@@ -1,0 +1,9 @@
+{
+  "name": "stickman-3d-blender",
+  "version": "1.0.0",
+  "description": "Free Glitch Lab kit: Claude makes 60-75 s vertical story shorts with 3D bean characters, built in Blender on your own PC.",
+  "author": { "name": "Glitch Lab" },
+  "homepage": "https://github.com/Prisma972/glitch-lab-stickman-3d-blender",
+  "repository": "https://github.com/Prisma972/glitch-lab-stickman-3d-blender",
+  "license": "MIT"
+}
